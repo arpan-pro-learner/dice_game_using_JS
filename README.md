@@ -1,1 +1,1 @@
-# dice_game_using_JS
+# dice_game_using_javascript
