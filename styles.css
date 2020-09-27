@@ -14,7 +14,20 @@ body {
   /* background-image: url("images/instabg.png"); */
   background: linear-gradient(to right, #4605ff, #883bef);
 }
-
+.roll_dice {
+  border-radius: 2em;
+  background: #4ecca3;
+  width: 10rem;
+  height: 3rem;
+  font-size: 1.5em;
+  box-shadow: 2px 2.5px #232931;
+  border: 2px solid black;
+  font-family: "Lobster", cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 6rem auto;
+}
 h1 {
   margin: 30px;
   font-family: "Lobster", cursive;

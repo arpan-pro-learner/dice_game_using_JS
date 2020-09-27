@@ -20,3 +20,7 @@ if (randomNumber2 > randomNumber1) {
 if (randomNumber2 == randomNumber1) {
     document.querySelector("h1").innerHTML = " DRAW!🤦‍♂️"
 }
+// button which relods the page
+function sampleFunction() {
+    location.reload();
+}
